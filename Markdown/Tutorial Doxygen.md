@@ -271,7 +271,7 @@ public class Principal {
                 
     }
 }
-```
+`````
 
 Este segmento de codigo se mostrará así en el navegador
 
