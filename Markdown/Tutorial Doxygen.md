@@ -1,4 +1,8 @@
+
 # Doxygen
+
+[Author] Anahi Naranjo
+
 ## Generador de documentación
 Doxygen es una herramienta generadora de documentación que se utiliza principalmente para documentar el código fuente del software. Se usa comúnmente en la industria del desarrollo de software para generar automáticamente documentación de alta calidad en varios formatos, como HTML, PDF y RTF, a partir de comentarios con formato especial dentro del código fuente.
 
